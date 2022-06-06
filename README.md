@@ -6,12 +6,12 @@ Classificação de influencers de mercados financeiros em redes sociais.
 * [Requisitos de instalação](#requistos-instalacao)
 * [Instalação](#instalacao)
 
-## Descrição
+## Descrição (#descricao)
 Classificação de  influencers de mercados financeiros em redes sociais através de:
 - [x] Abordagem híbrida (Lexicon-based + Machine Learning) para a análise de sentimento;
 - [x] Algoritmo genético para a definição de influencer.
 
-## Requisitos de instalação
+## Requisitos de instalação (#requistos-instalacao)
 
 * [Python](https://www.python.org/)
 ```sh
@@ -38,4 +38,4 @@ Classificação de  influencers de mercados financeiros em redes sociais atravé
   pip install orange3
 ```
 
-## Instalação
+## Instalação (#instalacao)
