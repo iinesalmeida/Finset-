@@ -1,5 +1,10 @@
 # Finset
 Classificação de influencers de mercados financeiros em redes sociais.
+[![Autora]((https://github.com/iinesalmeida))
+## Menu
+* [Descrição](#descricao)
+* [Requisitos de instalação](#requistos-instalacao)
+* [Instalação](#instalacao)
 
 ## Descrição
 Classificação de  influencers de mercados financeiros em redes sociais através de:
@@ -32,3 +37,5 @@ Classificação de  influencers de mercados financeiros em redes sociais atravé
 ```sh
   pip install orange3
 ```
+
+## Instalação
