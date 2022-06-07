@@ -39,3 +39,5 @@ Classificação de  influencers de mercados financeiros em redes sociais atravé
 ```
 
 ## Instalação
+* Para análise de sentimento: Abrir o diretório 'Análise de sentimento' na framework Orange;
+* Para o aloritmo genético: Correr o ficheiro presente no diretório 'Algoritmo genético'.
